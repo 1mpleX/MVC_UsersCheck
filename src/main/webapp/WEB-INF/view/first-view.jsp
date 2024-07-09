@@ -2,7 +2,7 @@
 <html>
 <body>
     <h2>
-        i wish you luck in Spring MVC learning
+        MVC valid
     </h2>
     <br>
     <br>

@@ -1,9 +1,8 @@
-package com.zaurtregulov.spring.mvc;
+package com.dnldub.spring.mvc;
 
 
 
-import com.zaurtregulov.spring.mvc.validation.CheckEmail;
-import org.springframework.stereotype.Controller;
+import com.dnldub.spring.mvc.validation.CheckEmail;
 
 import javax.validation.constraints.*;
 import java.util.HashMap;
